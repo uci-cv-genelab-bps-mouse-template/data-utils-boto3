@@ -1,0 +1,10 @@
+pip>=22.2.2
+pandas
+tabulate
+tqdm
+pillow
+matplotlib
+boto3
+pyprojroot
+scikit-learn
+opencv-python
