@@ -1,4 +1,4 @@
-# Getting Started: Downloading Data from the Cloud & PyTorch Custom Datasets, Transforms, and DataLoader
+# Getting Started: Downloading Data from the Cloud
 ## Firstname Lastname
 TODO - Update your name in this readme
 
